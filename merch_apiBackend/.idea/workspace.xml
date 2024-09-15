@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a96fe88-e584-4016-a904-d11a30007649" name="Changes" comment="Ten commit. Last fixes." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="24q4MlEnTYbFVVsqe42BJY5rV7c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Merch/merch_api" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="merchy_api" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="merchy_api" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MerchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="merchy_api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cod.merch.MerchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a96fe88-e584-4016-a904-d11a30007649" name="Changes" comment="" />
+      <created>1644344740563</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644344740563</updated>
+      <workItem from="1644344741887" duration="425000" />
+      <workItem from="1644347116551" duration="219000" />
+      <workItem from="1644412723936" duration="1091000" />
+      <workItem from="1644424998724" duration="10000" />
+      <workItem from="1644866346696" duration="2829000" />
+      <workItem from="1644902857676" duration="34296000" />
+      <workItem from="1644942719378" duration="8863000" />
+      <workItem from="1644986842052" duration="12352000" />
+      <workItem from="1645002941125" duration="1478000" />
+      <workItem from="1645020535663" duration="11846000" />
+      <workItem from="1645079898367" duration="3345000" />
+      <workItem from="1645091013273" duration="1282000" />
+      <workItem from="1645102747679" duration="8876000" />
+      <workItem from="1645186008275" duration="1921000" />
+      <workItem from="1645201007551" duration="9767000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add model">
+      <created>1644908389338</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644908389338</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Second commit. Add many very interesting things.">
+      <created>1644949232187</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644949232187</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Third commit. Bag fixes, add UserController.java">
+      <created>1644993498685</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1644993498685</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Forth commit. Bug fixes, add methods">
+      <created>1645000130040</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1645000130040</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fifth commit. Add methods">
+      <created>1645003739062</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1645003739062</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Sixth commit. Bug fixes. Add photo to item and achieve">
+      <created>1645027972667</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1645027972667</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Seventh commit. A lot of bug fixed, add methods">
+      <created>1645038649364</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1645038649364</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Eighth commit. Add cost to contest. Bug fixed">
+      <created>1645089990178</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1645089990178</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Eighth commit. Add cost to contest. Bug fixed">
+      <created>1645091061834</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1645091061834</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Ninth commit. Add methods, fields to user и contest.">
+      <created>1645121169873</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1645121169873</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Ten commit. Last fixes.">
+      <created>1645212720209</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1645212720209</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add model" />
+    <MESSAGE value="Second commit. Add many very interesting things." />
+    <MESSAGE value="Third commit. Bag fixes, add UserController.java" />
+    <MESSAGE value="Forth commit. Bug fixes, add methods" />
+    <MESSAGE value="Fifth commit. Add methods" />
+    <MESSAGE value="Sixth commit. Bug fixes. Add photo to item and achieve" />
+    <MESSAGE value="Seventh commit. A lot of bug fixed, add methods" />
+    <MESSAGE value="Eighth commit. Add cost to contest. Bug fixed" />
+    <MESSAGE value="Ninth commit. Add methods, fields to user и contest." />
+    <MESSAGE value="Ten commit. Last fixes." />
+    <option name="LAST_COMMIT_MESSAGE" value="Ten commit. Last fixes." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/cod/merch/controller/AuthController.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
