@@ -4,7 +4,7 @@ import user_methods
 
 logging.basicConfig(level=logging.INFO)
 
-bot = Bot(token='5283640535:AAFHqwespLS0xLi-9NicZuhvaqAj6jmpMNE')
+bot = Bot(token='')
 
 dp = Dispatcher(bot)
 
